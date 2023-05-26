@@ -1,12 +1,14 @@
 {
     "users": [
         {
+            "id":1,
             "username" : "superdoctor",
             "email": "clarkkent@mail.com",
             "password":"superman",
             "isDoctor": true
         },
         {
+            "id":2,
             "username" : "jameclear",
             "email": "jamesclear@mail.com",
             "password":"jamesclear",
@@ -15,6 +17,7 @@
     ],
     "doctors": [
         {
+            "id":1,
             "name": "Jane Doe",
             "image": "https://example.com/doctor-image.jpg",
             "specialization": "Dermatologist",
@@ -25,6 +28,7 @@
             "fee": 150
         },
         {
+            "id":2,
             "name": "Mark Johnson",
             "image": "https://example.com/doctor-image.jpg",
             "specialization": "Pediatrician",
